@@ -1,2 +1,2 @@
-# portfolio
-My portfolio utilising Github Pages
+# My Portfolio
+This is the repository for my portfolio using Github Pages to host.
